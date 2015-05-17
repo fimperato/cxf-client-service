@@ -1,0 +1,4 @@
+\apache-cxf-3.1.0
+
+>wsdl2java -impl -client -d [prj-path]\src\main\java\it\test\ws\client\cxf\cmdgen [prj-path]\src\main\resources\wsdl\HelloWorlds.wsdl
+(>wsdl2java -impl -server -d [prj-path]\src\main\java\it\test\ws\client\cxf\cmdgen [prj-path]\src\main\resources\wsdl\HelloWorlds.wsdl)
